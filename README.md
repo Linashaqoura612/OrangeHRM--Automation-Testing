@@ -79,3 +79,13 @@ The team worked in a Scrum setup with:
 - **Sprint Planning** (analyzing requirements and assigning tasks)
 - **Daily Scrum** (10-minute daily syncs)
 - **Sprint Review** (final presentation and demo)
+
+## 🖼️ Screenshots
+
+![app_view1](Screen1.jpeg)
+
+![app_view2](Screen2.jpeg)
+
+![app_view3](Screen3.jpeg)
+
+![app_view4](Screen4.jpeg)
